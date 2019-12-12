@@ -1,5 +1,6 @@
 # CPROG
 ######## DISCLAIMER ##########################################################
+
 This repository contains code from an assignemnt from the CPROG course
 at DSV in Stockholm. The task was to create a mini "game engine". Due to poor
 time management the code is riddled with bugs and is not the prettiest
