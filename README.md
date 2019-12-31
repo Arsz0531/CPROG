@@ -20,6 +20,7 @@ due to bad time management this is the highest grade I had time to develop for.
 7. The game engine should be able to handle input and the keybinds should not be hardcoded.
 8. Simple collision detection
 9. It should be able to run on Linux, MS windows
+
 (For grade D)
 1. There should be a maximum framerate
 2. There should be different types of sprites in a class hierarchy, movable/unmovable sprites.
